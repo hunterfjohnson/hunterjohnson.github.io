@@ -1,6 +1,6 @@
 title: myproject
 baseurl: ""
-url: ""
+url: "https://hunterjohnson.github.io"
 markdown: kramdown
 theme: jekyll-theme-slate
 exclude: [vendor]
