@@ -1,2 +1,6 @@
+title: myproject
+baseurl: ""
+url: ""
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
+exclude: [vendor]
