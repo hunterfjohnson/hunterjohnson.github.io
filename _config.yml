@@ -2,5 +2,5 @@ title: myproject
 baseurl: ""
 url: "https://hunterjohnson.github.io"
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: slate
 exclude: [vendor]
