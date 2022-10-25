@@ -1,5 +1,5 @@
-title: myproject
+title: Hunter JOhnson
 baseurl: ""
 url: "https://hunterjohnson.github.io"
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-minima
