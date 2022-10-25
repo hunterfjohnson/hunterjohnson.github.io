@@ -1,5 +1,7 @@
 ## linguistics PhD Student at UCLA
 
+![pfp](https://hunterjohnson.github.io/assets/IMG_5563.jpeg)
+
 ## about me
 
 I am a second-year linguistics PhD student at UCLA.
