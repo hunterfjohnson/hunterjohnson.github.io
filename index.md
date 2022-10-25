@@ -1,8 +1,6 @@
 ## linguistics PhD Student at UCLA
 
-![pfp](/assets/IMG_5563.jpeg)
-
-<img src="/assets/IMG_5563.jpeg" width="600" height="450" />
+<img src="/assets/IMG_5563.jpeg" width="733" height="550" />
 
 ## about me
 
