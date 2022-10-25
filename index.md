@@ -1,5 +1,3 @@
-# hunter johnson
-
 ## linguistics PhD Student at UCLA
 
 ## about me
