@@ -1,4 +1,4 @@
-<img src="/assets/IMG_5563.jpeg" width="733" height="550" />
+<img src="/assets/IMG_5563.jpeg" width="600" height="450" />
 
 ## linguistics PhD student at UCLA
 
