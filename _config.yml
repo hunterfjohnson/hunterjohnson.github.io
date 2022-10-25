@@ -2,4 +2,4 @@ title: Hunter JOhnson
 baseurl: ""
 url: "https://hunterjohnson.github.io"
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: minima
