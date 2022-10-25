@@ -1,6 +1,6 @@
 ## linguistics PhD Student at UCLA
 
-![pfp](https://hunterjohnson.github.io/assets/IMG_5563.jpeg)
+![pfp](/hunterjohnson.github.io/assets/IMG_5563.jpeg)
 
 ## about me
 
