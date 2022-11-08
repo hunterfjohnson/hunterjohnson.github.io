@@ -1,4 +1,10 @@
-<img src="/assets/IMG_5563.jpeg" width="600" height="450" />
+<style>
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+<img src="/assets/IMG_5563.jpeg" class="responsive" width="600" height="450" />
 
 ## linguistics PhD student at UCLA
 
