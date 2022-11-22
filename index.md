@@ -2,10 +2,10 @@
 
 <img
   srcset="/assets/IMG_5563.jpeg 600w 450h, /assets/IMG_5563.jpeg 300w 225h"
-  sizes="(max-width: 300px) 240px,
-         400px"
+  sizes="(max-width: 600px) 240px,
+         400px (max-height: 450px)"
   src="/assets/IMG_5563.jpeg"
-  alt="Elva dressed as a fairy" />
+/>
 
 ## linguistics PhD student at UCLA
 
