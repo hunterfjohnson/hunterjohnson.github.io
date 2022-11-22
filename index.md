@@ -1,7 +1,7 @@
 <img src="/assets/IMG_5563.jpeg" class="responsive" width="600" height="450" />
 
 <img
-  srcset="/assets/IMG_5563.jpeg 600w 450h, /assets/IMG_5563.jpeg 250w"
+  srcset="/assets/IMG_5563.jpeg 600w 450h, /assets/IMG_5563.jpeg 300w 225h"
   sizes="(max-width: 600px) 480px,
          800px"
   src="/assets/IMG_5563.jpeg"
