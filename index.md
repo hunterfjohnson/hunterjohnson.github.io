@@ -1,4 +1,4 @@
-<img src="/assets/IMG_5563.jpeg" class="responsive" width="500" height="375" />
+<img src="/assets/IMG_5563.jpeg" class="responsive" width="400" height="300" />
 
 <!---<img
   srcset="/assets/IMG_5563.jpeg 300w, /assets/IMG_5563.jpeg 100w"
