@@ -2,8 +2,8 @@
 
 <img
   srcset="/assets/IMG_5563.jpeg 600w 450h, /assets/IMG_5563.jpeg 300w 225h"
-  sizes="(max-width: 600px) 240px,
-         400px (max-height: 450px)"
+  sizes="(max-width: 600) 240px,
+         400px"
   src="/assets/IMG_5563.jpeg"
 />
 
