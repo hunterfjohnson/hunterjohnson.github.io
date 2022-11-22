@@ -1,12 +1,12 @@
-<img src="/assets/IMG_5563.jpeg" class="responsive" width="600" height="450" />
+<img src="/assets/IMG_5563.jpeg" class="responsive" width="500" height="375" />
 
-<img
+<!---<img
   srcset="/assets/IMG_5563.jpeg 300w, /assets/IMG_5563.jpeg 100w"
   sizes="max-width: 450px;
          width:100% 100px"
   src="/assets/IMG_5563.jpeg"
 />
-
+--->
 ## linguistics PhD student at UCLA
 
 ## about me
