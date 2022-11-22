@@ -1,9 +1,9 @@
 <img src="/assets/IMG_5563.jpeg" class="responsive" width="600" height="450" />
 
 <img
-  srcset="/assets/IMG_5563.jpeg 600w 450h, /assets/IMG_5563.jpeg 300w 225h"
-  sizes="(max-width: 450) 240,
-         400"
+  srcset="/assets/IMG_5563.jpeg 300w 450h, /assets/IMG_5563.jpeg 100w 225h"
+  sizes="(max-width: 100) 100px,
+         100px"
   src="/assets/IMG_5563.jpeg"
 />
 
