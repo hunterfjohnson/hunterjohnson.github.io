@@ -2,7 +2,7 @@
 
 <img
   srcset="/assets/IMG_5563.jpeg 600w 450h, /assets/IMG_5563.jpeg 300w 225h"
-  sizes="(max-width: 600px) 480px,
+  sizes="(max-width: 300px) 240px,
          400px"
   src="/assets/IMG_5563.jpeg"
   alt="Elva dressed as a fairy" />
