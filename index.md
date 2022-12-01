@@ -2,7 +2,7 @@
 
 
 <img
-  srcset="/assets/IMG_5563.jpeg 300w, /assets/IMG_5563.jpeg 100w"
+  srcset="/assets/IMG_5563.jpeg 300w"
   sizes="max-width: 50%;
          width:50%"
   src="/assets/IMG_5563.jpeg"
