@@ -2,9 +2,9 @@
 
 
 <img
-  srcset="/assets/IMG_5563.jpeg 100w"
-  sizes="max-width: 50%;
-         width:50%"
+  srcset="/assets/IMG_5563.jpeg 10w, /assets/IMG_5563.jpeg 10w"
+  sizes="max-width: 10%;
+         width:10%"
   src="/assets/IMG_5563.jpeg"
 />
 
