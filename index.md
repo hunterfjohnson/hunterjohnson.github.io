@@ -1,12 +1,18 @@
 <!--<img src="/assets/IMG_5563.jpeg" class="responsive" width="400" height="300" />-->
 
 
-<img
+<!--<img
   srcset="/assets/IMG_5563.jpeg 10w, /assets/IMG_5563.jpeg 10w"
   sizes="max-width: 10%;
          width:10%"
   src="/assets/IMG_5563.jpeg"
-/>
+/>-->
+
+<picture>
+  <source srcset="/assets/IMG_5563.jpeg" media="(min-width: 1200px)" />
+  <source srcset="/assets/IMG_5563.jpeg" media="(min-width: 800px)" />
+  <img src="/assets/IMG_5563.jpeg" />
+</picture>
 
 ## linguistics PhD student at UCLA
 
