@@ -9,7 +9,7 @@
 />-->
 
 <picture>
-  <source srcset="/assets/IMG_5563.jpeg" media="(min-width: 1200px)" />
+  <source srcset="/assets/IMG_5563.jpeg" media="(min-width: 800px)" />
   <source srcset="/assets/IMG_5563.jpeg" media="(min-width: 800px)" />
   <img src="/assets/IMG_5563.jpeg" />
 </picture>
