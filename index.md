@@ -2,10 +2,10 @@
 
 
 <img
-  srcset="/assets/IMG_5563.jpeg 10w, /assets/IMG_5563.jpeg 10w"
+  srcset="/assets/hunter.jpeg 10w, /assets/hunter.jpeg 10w"
   sizes="max-width: 10%;
          width:10%"
-  src="/assets/IMG_5563.jpeg"
+  src="/assets/hunter.jpeg"
 />
 
 ## linguistics PhD student at UCLA
