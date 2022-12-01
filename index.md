@@ -1,4 +1,4 @@
-<!--<img src="/assets/IMG_5563.jpeg" class="responsive" width="400" height="300" />-->
+<img src="/assets/IMG_5563.jpeg" class="responsive" width="400" height="300" />
 
 
 <!--<img
@@ -7,12 +7,6 @@
          width:10%"
   src="/assets/IMG_5563.jpeg"
 />-->
-
-<picture>
-  <source srcset="/assets/IMG_5563.jpeg" media="(max-width: 800px)" />
-  <source srcset="/assets/IMG_5563.jpeg" media="(max-width: 800px)" />
-  <img src="/assets/IMG_5563.jpeg" />
-</picture>
 
 ## linguistics PhD student at UCLA
 
