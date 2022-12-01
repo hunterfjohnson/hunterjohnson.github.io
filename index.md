@@ -3,8 +3,8 @@
 
 <img
   srcset="/assets/IMG_5563.jpeg 300w, /assets/IMG_5563.jpeg 100w"
-  sizes="max-width: 450px;
-         width:100% 100px"
+  sizes="max-width: 100%;
+         width:100%"
   src="/assets/IMG_5563.jpeg"
 />
 
