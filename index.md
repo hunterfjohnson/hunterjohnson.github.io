@@ -10,7 +10,7 @@
 
 ## linguistics PhD student at UCLA
 
-PhD student\Department of Linguistics\University of California, Los Angeles
+PhD student\ Department of Linguistics\ University of California, Los Angeles
 
 email: hunterjohnson at ucla dot edu
 
