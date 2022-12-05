@@ -1,4 +1,4 @@
-<img align="right" src="/assets/hunter_circle.png" class="responsive" width="225" height="225"/>
+<img align="right" src="/assets/hunter_circle.png" class="responsive" width="200" height="200"/>
 
 
 <!--<img
