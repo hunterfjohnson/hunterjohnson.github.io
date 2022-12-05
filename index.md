@@ -1,12 +1,12 @@
-<!--<img src="/assets/IMG_5563.jpeg" class="responsive" width="400" height="300" />-->
+<img src="/assets/hunter_circle.png" class="responsive" width="400" height="300" />
 
 
-<img
+<!--<img
   srcset="/assets/hunter_circle.png 10w, /assets/hunter_circle.png 10w"
   sizes="max-width: 10%;
          width:10%"
   src="/assets/hunter_circle.png"
-/>
+/>-->
 
 ## linguistics PhD student at UCLA
 
