@@ -8,8 +8,6 @@
   src="/assets/hunter_circle.png"
 />-->
 
-## linguistics PhD student at UCLA
-
 PhD student  
 Department of Linguistics  
 University of California, Los Angeles
