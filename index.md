@@ -40,6 +40,7 @@ as a relative newcomer to the field of computational linguistics, I have a wide 
 
 ### poster presentations
 2021 Johnson, H. Motivating a Nominal Licensing Account of Differential Object Marking in Guaraní. Minnesota Undergraduate Linguistics Symposium (MULS).
+
 2021 Johnson, H. A nominal licensing account of Differential Object Marking in Guaraní. University of Minnesota Linguistics Department Colloquium.
 
 ## other
