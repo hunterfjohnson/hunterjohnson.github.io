@@ -26,10 +26,9 @@ In terms of syntactic theory, I'm most interested in asking questions about what
 In terms of fieldwork, I have performed extensive fieldwork on three indigenous languages of the Americas. My first fieldwork experience was with Ojibwe (spoken in Northern MN, WI, and Canada) and more specifically the Mille Lacs dialect. The main topics of my work was on the person-agreement marking system as well as deverbal nouns. My work on deverbal nouns was a joint project with Chris Hammerly (UBC) and was presented at the 53 Algonauian Conference and a proceedings paper will be published in the Porceedings of the 53rd Algonquian conference. My next experience was doing fieldwork on K'iche' (spoken in Guatemala) where I worked on a project examining what I deem the "Absolutive Extraction Constrait" in which the opposite effect of the famed Ergative Extraction Constraint is found in non-finite clauses. Finally, my most in-depth fieldwork experience is with Paraguayan Guaraní where I spent the summer of 2022 performing fieldwork in Coronel Oviedo, Paraguay. This is where the vast majority of the data for my Guaraní projects was elicited. I continute to work regularly with roughly four speakers of Paraguayan Guaraní for my various ongoing projects.
 
 ## publications
-### peer-reviewed proceedings papers
+
 (under review) Johnson, H. and Hammerly, C. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference.
 
-### other publications
 2021 Johnson, H. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy.
 
 ## presentations
