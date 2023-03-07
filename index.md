@@ -27,7 +27,7 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## publications
 
-(under review) Johnson, H. and Hammerly, C. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference.
+(in press) Johnson, H. and Hammerly, C. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference.
 
 2021 Johnson, H. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy.
 
