@@ -45,7 +45,3 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 2021 Johnson, H. A nominal licensing account of Differential Object Marking in Guaraní. University of Minnesota Linguistics Department Colloquium.
 
 ## other
-
-## about me
-
-When I'm not being a linguist, I really enjoy cross-country skiing, running, and playing soccer. 
