@@ -37,9 +37,9 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## presentations
 ### conference presentations
-2023 Johnson, H. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA. [handout]
+2023 Johnson, H. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA. [handout](https://github.com/hunterfjohnson/hunterjohnson.github.io/blob/master/assets/wccflguarani.pdf)
 
-2023 Johnson, H. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA. [handout]
+2023 Johnson, H. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA. [handout](https://github.com/hunterfjohnson/hunterjohnson.github.io/blob/master/assets/wscla2023.pdf)
 
 2021 Johnson, H. and Hammerly, C. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA.
 
@@ -47,5 +47,3 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 2021 Johnson, H. Motivating a Nominal Licensing Account of Differential Object Marking in Guaraní. Minnesota Undergraduate Linguistics Symposium (MULS).
 
 2021 Johnson, H. A nominal licensing account of Differential Object Marking in Guaraní. University of Minnesota Linguistics Department Colloquium.
-
-## other
