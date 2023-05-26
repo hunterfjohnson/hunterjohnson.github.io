@@ -37,7 +37,7 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## presentations
 ### conference presentations
-2023 Johnson, H. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA. [[handout]](<a href="https://github.com/hunterfjohnson/hunterjohnson.github.io/blob/master/assets/wccflguarani.pdf" title="Download" download>Download</a>)
+2023 Johnson, H. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA.(<a href="https://github.com/hunterfjohnson/hunterjohnson.github.io/blob/master/assets/wccflguarani.pdf" title="[handout]" download>Click to Download</a>)
 
 2023 Johnson, H. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA. [[handout]](https://github.com/hunterfjohnson/hunterjohnson.github.io/blob/master/assets/wscla2023.pdf "download")
 
