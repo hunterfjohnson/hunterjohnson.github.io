@@ -15,6 +15,10 @@ University of California, Los Angeles
 
 `` hunterjohnson`` at ``ucla`` dot ``edu``
 
+## cv
+
+You may access my CV here.
+
 ## research interests
 
 my research interests are primarily in theoretical syntax and fieldwork.
@@ -33,9 +37,9 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## presentations
 ### conference presentations
-<!---2023 Johnson, H. _Feature Gluttony in the Guaraní inverse_ WCCFL 2023. UCSC. Santa Cruz, CA.
+2023 Johnson, H. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA. [handout]
 
-2023 Johnson, H. _Feature Gluttony in the Guaraní inverse_ WSCLA 2023. McGill University, Montreal CA.--->
+2023 Johnson, H. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA. [handout]
 
 2021 Johnson, H. and Hammerly, C. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA.
 
