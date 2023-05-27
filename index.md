@@ -31,7 +31,7 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## publications
 
-(to appear) Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="/assets/icphs_2023_guarani.pdf" target="_blank">paper</a>]
+(to appear) Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="assets/icphs_guarani_2023.pdf" target="_blank">paper</a>]
 
 (to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL)_.
 
