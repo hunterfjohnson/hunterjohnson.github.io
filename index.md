@@ -39,7 +39,7 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 ### conference presentations
 2023 Johnson, H. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA.[<a href="/assets/wccflguarani.pdf" target="_blank">hadnout</a>]
 
-2023 Johnson, H. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA.(<a href="/assets/wscla2023.pdf" target="_blank">[handout]</a>)
+2023 Johnson, H. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA.[<a href="/assets/wscla2023.pdf" target="_blank">handout</a>]
 
 2021 Johnson, H. and Hammerly, C. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA.
 
