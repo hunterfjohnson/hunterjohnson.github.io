@@ -41,7 +41,7 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 2023 Johnson, Hunter. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA. [<a href="/assets/wscla2023.pdf" target="_blank">handout</a>]
 
-2021 Johnson, Hunter. and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA. [<a href="/assests/ac_53.pdf" target="_blank">slides</a>][<a href="https://algonquianconference.atlas-ling.ca/eng/conference/presentations/videos-of-presentations-ac53-2021/" target="_blank">video</a>]
+2021 Johnson, Hunter. and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA. [<a href="/assets/ac_53.pdf" target="_blank">slides</a>][<a href="https://algonquianconference.atlas-ling.ca/eng/conference/presentations/videos-of-presentations-ac53-2021/" target="_blank">video</a>]
 
 ### poster presentations
 2021 Johnson, Hunter. Motivating a Nominal Licensing Account of Differential Object Marking in Guaraní. Minnesota Undergraduate Linguistics Symposium (MULS).
