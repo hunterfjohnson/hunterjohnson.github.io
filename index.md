@@ -31,6 +31,12 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## publications
 
+(to appear) Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="/assets/icphs_2023_guarani.pdf" target="_blank">paper</a>]
+
+(to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL)_.
+
+(to appear) Johnson, Hunter. Feature Gluttony in the Guarani inverse. In _Proceedings of the 26th Workshop on Structure and Constituency in Languages of the Americas_.
+
 (in press) Johnson, Hunter and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">paper</a>]
 
 2021 Johnson, Hunter. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy. [<a href="/assets/nouns_ojibwe.pdf" target="_blank">paper</a>] [<a href="https://conservancy.umn.edu/handle/11299/220352" target="_blank">link</a>]
@@ -44,6 +50,7 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 2021 Johnson, Hunter. and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA. [<a href="/assets/ac_53.pdf" target="_blank">slides</a>][<a href="https://algonquianconference.atlas-ling.ca/eng/conference/presentations/videos-of-presentations-ac53-2021/" target="_blank">video</a>]
 
 ### poster presentations
+2023 Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic.
 2021 Johnson, Hunter. Motivating a Nominal Licensing Account of Differential Object Marking in Guaraní. Minnesota Undergraduate Linguistics Symposium (MULS).[<a href="/assets/muls_2021_poster.pdf" target="_blank">poster</a>]
 
 2021 Johnson, Hunter. A nominal licensing account of Differential Object Marking in Guaraní. University of Minnesota Linguistics Department Colloquium.
