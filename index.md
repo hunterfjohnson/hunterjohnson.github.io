@@ -17,7 +17,7 @@ University of California, Los Angeles
 
 ## cv
 
-You may access my CV here.
+You may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## research interests
 
