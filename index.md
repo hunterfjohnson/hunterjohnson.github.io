@@ -37,9 +37,9 @@ In terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 (to appear) Johnson, Hunter. Feature Gluttony in the Guarani inverse. In _Proceedings of the 26th Workshop on Structure and Constituency in Languages of the Americas_.
 
-(in press) Johnson, Hunter and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">paper</a>]
+(in press) Johnson, Hunter and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">pre-publication version</a>]
 
-2021 Johnson, Hunter. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy. [<a href="/assets/nouns_ojibwe.pdf" target="_blank">pre-publication version</a>] [<a href="https://conservancy.umn.edu/handle/11299/220352" target="_blank">link</a>]
+2021 Johnson, Hunter. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy. [<a href="/assets/nouns_ojibwe.pdf" target="_blank">paper</a>] [<a href="https://conservancy.umn.edu/handle/11299/220352" target="_blank">link</a>]
 
 ## presentations
 ### conference presentations
