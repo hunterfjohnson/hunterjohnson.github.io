@@ -17,17 +17,17 @@ University of California, Los Angeles
 
 ## cv
 
-You may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
+you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## research interests
 
 my research interests are primarily in theoretical syntax and fieldwork.
 
 ### syntactic theory
-In terms of syntactic theory, I'm most interested in asking questions about what complex agreement dependencies in the world's languages can tell us about the grammar of the speaker as a whole. Right now, I'm looking at two Person-Animacy Hierarchy (PAH) effects in Guarani: Differential Object Marking (DOM) and the inverse/direct agreement system. These sorts of PAH effects and agreement systems reveal a lot about the finer-grained details of how syntactic agreement works across languages. I work under a Feature Gluttony analysis (Coon and Keine 2021) for these PAH effects in Guarani. I'm also interested in A-bar movement restrictions in embedded clauses in K'iche' and the problem of explaining restrictions on multiclausal movement in our current theories of syntax.
+in terms of syntactic theory, I'm most interested in asking questions about what complex agreement dependencies in the world's languages can tell us about the grammar of the speaker as a whole. Right now, I'm looking at two Person-Animacy Hierarchy (PAH) effects in Guarani: Differential Object Marking (DOM) and the inverse/direct agreement system. These sorts of PAH effects and agreement systems reveal a lot about the finer-grained details of how syntactic agreement works across languages. I work under a Feature Gluttony analysis (Coon and Keine 2021) for these PAH effects in Guarani. I'm also interested in A-bar movement restrictions in embedded clauses in K'iche' and the problem of explaining restrictions on multiclausal movement in our current theories of syntax.
 
 ### fieldwork
-In terms of fieldwork, I have performed extensive fieldwork on three indigenous languages of the Americas. I began fieldwork at the University of Minnesota with the Mille Lacs dialect of Ojibwe (spoken in Northern MN, WI, and Canada) where I worked on conjunct agreement and deverbal nouns. The deverbal noun research was a joint project between Chris Hammerly (UBC) and I which resulted in a presentation at the 53rd Algonquian Conference and a proceedings paper (links below). I continued doing fieldwork on Cantel K'iche' (spoken in Guatemala) at UCLA looking into A-bar movement extraction constraints out of embedded clauses. Finally, last summer I spent six weeks doing in-situ fieldwork in Paraguay focusing mostly on agreement patterns, wh-movement, DOM, relative clauses, and more. I continue to work on Guarani to a large extent and K'iche' to a lesser extent.
+in terms of fieldwork, I have performed extensive fieldwork on three indigenous languages of the Americas. I began fieldwork at the University of Minnesota with the Mille Lacs dialect of Ojibwe (spoken in Northern MN, WI, and Canada) where I worked on conjunct agreement and deverbal nouns. The deverbal noun research was a joint project between Chris Hammerly (UBC) and I which resulted in a presentation at the 53rd Algonquian Conference and a proceedings paper (links below). I continued doing fieldwork on Cantel K'iche' (spoken in Guatemala) at UCLA looking into A-bar movement extraction constraints out of embedded clauses. Finally, last summer I spent six weeks doing in-situ fieldwork in Paraguay focusing mostly on agreement patterns, wh-movement, DOM, relative clauses, and more. I continue to work on Guarani to a large extent and K'iche' to a lesser extent.
 
 ## publications
 
