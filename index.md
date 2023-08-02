@@ -10,7 +10,7 @@
 
 ## linguistics PhD student @ UCLA
 
-Department of Linguistics  
+Department of Linguistics
 University of California, Los Angeles
 
 `` hunterjohnson`` at ``ucla`` dot ``edu``
@@ -33,7 +33,7 @@ in terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 (to appear) Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="assets/icphs_guarani_2023.pdf" target="_blank">pre-publication version</a>]
 
-(to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL)_.
+(to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL)_.[<a href="assets/johnson-2023-wccfl.pdf" target="_blank">paper</a>]
 
 (to appear) Johnson, Hunter. Feature Gluttony in the Guarani inverse. In _Proceedings of the 26th Workshop on Structure and Constituency in Languages of the Americas_.
 
