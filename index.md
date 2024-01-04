@@ -43,6 +43,13 @@ in terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## presentations
 ### conference presentations
+2024 Johnson, Hunter and Marisabel Cabrera _Wh-question formation strategies in Guarani_ SSILA 2024. NYC, NY.[<a href="/assets/ssila-wh.pdf" target="_blank">handout</a>]
+
+2024 Johnson, Hunter. _Relative clause formation in Guarani_ SSILA 2024. NYC, NY.[<a href="/assets/ssila.pdf" target="_blank">handout</a>]
+
+2023 Johnson, Hunter. _Unaccusativites and the active/stative split in Guarani_ SCAMS (III) 2023. Pomona College, CA.[<a href="/assets/scams.pdf" target="_blank">handout</a>]
+
+
 2023 Johnson, Hunter. _The Guarani inverse as double agree_ WCCFL 2023. UCSC. Santa Cruz, CA. [<a href="/assets/wccflguarani.pdf" target="_blank">handout</a>]
 
 2023 Johnson, Hunter. _Feature Gluttony in the Guarani inverse_ WSCLA 2023. McGill University, Montreal CA. [<a href="/assets/wscla2023.pdf" target="_blank">handout</a>]
