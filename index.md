@@ -43,7 +43,7 @@ in terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 ## presentations
 ### conference presentations
-2024 Johnson, Hunter and Marisabel Cabrera _Wh-question formation strategies in Guarani_ SSILA 2024. NYC, NY.[<a href="/assets/ssila-wh.pdf" target="_blank">handout</a>]
+2024 Johnson, Hunter and Marisabel Cabrera. _Wh-question formation strategies in Guarani_ SSILA 2024. NYC, NY.[<a href="/assets/ssila-wh.pdf" target="_blank">handout</a>]
 
 2024 Johnson, Hunter. _Relative clause formation in Guarani_ SSILA 2024. NYC, NY.[<a href="/assets/ssila.pdf" target="_blank">handout</a>]
 
