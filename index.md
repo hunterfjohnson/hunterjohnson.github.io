@@ -35,9 +35,9 @@ in terms of fieldwork, I have performed extensive fieldwork on three indigenous 
 
 (to appear) Johnson, Hunter. Optional inverse agreement in Guarani ditransitives. In _Proceedings of the 26th Workshop on Structure and Constituency in Languages of the Americas_.[<a href="assets/johnson-2023-wscla.pdf" target="_blank">paper</a>]
 
-(accepted) Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="assets/icphs_guarani_2023.pdf" target="_blank">pre-publication version</a>]
+2024 Johnson, Hunter and Hammerly, Christopher. Deverbal noun formation in Mille Lacs Ojibwe. In _Proceedings of the 53rd Algonquian Conference_. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">pre-publication version</a>]
 
-(accepted) Johnson, Hunter and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. Proceedings of the 53rd Algonquian Conference. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">pre-publication version</a>]
+2023 Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="assets/icphs_guarani_2023.pdf" target="_blank">pre-publication version</a>]
 
 2021 Johnson, Hunter. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy. [<a href="/assets/nouns_ojibwe.pdf" target="_blank">paper</a>] [<a href="https://conservancy.umn.edu/handle/11299/220352" target="_blank">link</a>]
 
