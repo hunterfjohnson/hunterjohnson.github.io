@@ -58,7 +58,7 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 2021 Johnson, Hunter. and Hammerly, Christopher. _Deverbal noun formation in Mille Lacs Ojibwe_. 53rd Algonquian Conference. Carelton College, CA. [<a href="/assets/ac_53.pdf" target="_blank">slides</a>][<a href="https://algonquianconference.atlas-ling.ca/eng/conference/presentations/videos-of-presentations-ac53-2021/" target="_blank">video</a>]
 
 ### poster presentations
-2024 Johnson, Hunter. _Unaccusativity in Guarani and the active/stative split_. WSCLA 2024. University of Toronto, Toronto, CA. [<a href="/assets/wscla-2024-poster.pdf" target="_blank">poster</a>][<a href="/assets/wscla-2024-supplement.pdf" target="_blank">supplement</a>]
+2024 Johnson, Hunter. _Unaccusativity in Guarani and the active/stative split_. WSCLA 2024. University of Toronto, Toronto, CA. [<a href="/assets/wscla-2024-poster.pdf" target="_blank">poster</a>][<a href="/assets/wscla-supplement.pdf" target="_blank">supplement</a>]
 
 2023 Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-johnson-2023-icphs-poster.pdf" target="_blank">poster</a>]
 
