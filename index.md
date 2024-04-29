@@ -31,11 +31,11 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 
 ## publications
 
-(to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 2&th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_.[paper]
+(to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 2&th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_. [paper]
 
 (to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL 41)_. [<a href="assets/johnson-2023-wccfl.pdf" target="_blank">paper</a>]
 
-(to appear) Johnson, Hunter. Optional inverse agreement in Guarani ditransitives. In _Proceedings of the 26th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 26)_.[<a href="assets/johnson-2023-wscla.pdf" target="_blank">paper</a>]
+(to appear) Johnson, Hunter. Optional inverse agreement in Guarani ditransitives. In _Proceedings of the 26th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 26)_. [<a href="assets/johnson-2023-wscla.pdf" target="_blank">paper</a>]
 
 2024 Johnson, Hunter and Hammerly, Christopher. Deverbal noun formation in Mille Lacs Ojibwe. In _Papers of the 53rd Algonquian Conference (PAC 53)_. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">pre-publication version</a>]
 
