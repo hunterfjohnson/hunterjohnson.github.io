@@ -31,6 +31,8 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 
 ## publications
 
+(submitted) Johnson, Hunter. Probe relaxation and direct/inverse, portmanteau, and active/stative agreement in Guarani. [<a href="assets/johnson-2024-relaxation.pdf" target="_blank">paper</a>]
+
 (to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 2&th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_. [paper]
 
 (to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL 41)_. [<a href="assets/johnson-2023-wccfl.pdf" target="_blank">paper</a>]
