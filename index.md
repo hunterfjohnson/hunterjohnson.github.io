@@ -24,7 +24,7 @@ you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 my research interests are primarily in theoretical syntax and fieldwork.
 
 ### syntactic theory
-in terms of syntactic theory, I'm most interested in studying hierarchy effects like direct/inverse agreement, direct/inverse marking, the PCC, etc.. These phenomena are interesting because they reveal a lot about how specifically the Agree operation works and what role Agree plays in the grammar. A lot of my work is on Guarani (my fieldwork language) which has direct/inverse agreement and a person restriction in causative constructions with three arguments. I have also been looking into hierarchy effects of other languages of the Americas like Quechua, Mapundungun, Nivaclé (Mataguayo), and many others. Beyond Agree and hierarchy effects, I have been looking at clausal embedding, relative clauses, and Tense in Guarani.
+in terms of syntactic theory, I'm most interested in studying hierarchy effects like direct/inverse agreement, direct/inverse marking, the PCC, etc.. These phenomena are interesting because they reveal a lot about how specifically the Agree operation works and what role Agree plays in the grammar. A lot of my work is on Guarani (my fieldwork language) which has: i) direct/inverse agreement, ii) portmanteau agreement in 1>2, iii) and active/stative agreement split in intransitives, and iv) a person restriction in causative constructions with three arguments. I have also been looking into hierarchy effects of other languages of the Americas like Quechua, Mapundungun, Nivaclé (Mataguayo), and many others. Beyond Agree and hierarchy effects, I have been looking at clausal embedding, relative clauses, Tense, and quantifiers in Guarani.
 
 ### fieldwork
 in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns of Coronel Oviedo and Caaguazú and have done multiple in-situ fieldtrips. When I'm not in Paraguay I meet with a few speakers over Zoom. In the past, I have done fieldwork on Mille Lacs Ojibwe (Minnesota) and Cantel K'iche' (Guatemala). I have not worked on these languages directly for a while but still love keeping up with Algonquian and Mayan linguistics. This summer, I also plan on doing fieldwork on the Nivaclé language spoken in northern Paraguay (Filadelfia).
@@ -33,7 +33,7 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 
 (submitted) Johnson, Hunter. Probe relaxation and direct/inverse, portmanteau, and active/stative agreement in Guarani. [<a href="assets/johnson-2024-relaxation.pdf" target="_blank">paper</a>]
 
-(to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 2&th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_. [paper]
+(to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 27th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_. [paper]
 
 (to appear) Johnson, Hunter. The Guarani inverse as double agree. In _Proceedings of the 41st West Coast Conference on Formal Linguistics (WCCFL 41)_. [<a href="assets/johnson-2023-wccfl.pdf" target="_blank">paper</a>]
 
