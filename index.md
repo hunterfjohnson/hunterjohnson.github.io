@@ -31,11 +31,7 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 
 ## publications
 
-### journal publications
-
 (submitted) Johnson, Hunter. Probe relaxation and direct/inverse, portmanteau, and active/stative agreement in Guarani. [<a href="assets/johnson-2024-relaxation.pdf" target="_blank">paper</a>]
-
-### conference proceedings
 
 (to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 27th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_. [paper]
 
@@ -46,8 +42,6 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 2024 Johnson, Hunter and Hammerly, Christopher. Deverbal noun formation in Mille Lacs Ojibwe. In _Papers of the 53rd Algonquian Conference (PAC 53)_. [<a href="/assets/deverbal_nouns_ojibwe.pdf" target="_blank">pre-publication version</a>]
 
 2023 Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. In _Proceedings of the 20th International Congress of Phonetic Sciences_. [<a href="assets/icphs_guarani_2023.pdf" target="_blank">pre-publication version</a>]
-
-### other
 
 2021 Johnson, Hunter. _Noun Composition in Ojibwe_, University of Minnesota Digital Conservancy. [<a href="/assets/nouns_ojibwe.pdf" target="_blank">paper</a>] [<a href="https://conservancy.umn.edu/handle/11299/220352" target="_blank">link</a>]
 
