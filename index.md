@@ -8,7 +8,7 @@
   src="/assets/hunter_circle.png"
 />-->
 
-## linguistics PhD student @ UCLA
+## linguistics PhD candidate @ UCLA
 
 Department of Linguistics
 University of California, Los Angeles
@@ -31,7 +31,7 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 
 ## publications
 
-(submitted) Johnson, Hunter. Probe relaxation and direct/inverse, portmanteau, and active/stative agreement in Guarani. [<a href="assets/johnson-2024-relaxation.pdf" target="_blank">paper</a>]
+(under review) Johnson, Hunter. Probe relaxation and direct/inverse, portmanteau, and active/stative agreement in Guarani. [<a href="assets/johnson-2024-relaxation.pdf" target="_blank">paper</a>]
 
 (to appear) Johnson, Hunter. Diagnosing unaccusativity in Guarani. In _Proceedings of the 27th Workshop on Structure and Constituency in Languages of the Americas (WSCLA 27)_. [paper]
 
