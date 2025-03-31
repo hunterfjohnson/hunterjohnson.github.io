@@ -63,7 +63,7 @@ in terms of fieldwork, my main focus is on Guarani. I mostly work in the towns o
 
 ### poster presentations
 
-2025 Johnson, Hunter. _Flexible search conditions on Agree probes_ GLOW 47. Frankfurt, DE. [<a href="/assets/glow-2025-poster.pdf" target="_blank">[poster</a>]
+2025 Johnson, Hunter. _Flexible search conditions on Agree probes_ GLOW 47. Frankfurt, DE. [<a href="/assets/glow-2025-poster.pdf" target="_blank">poster</a>]
 
 2024 Johnson, Hunter. _Unaccusativity in Guarani and the active/stative split_. WSCLA 2024. University of Toronto, Toronto, CA. [<a href="/assets/wscla-2024-poster.pdf" target="_blank">poster</a>][<a href="/assets/wscla-supplement.pdf" target="_blank">supplement</a>]
 
