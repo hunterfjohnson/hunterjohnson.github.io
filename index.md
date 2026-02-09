@@ -19,10 +19,6 @@ University of California, Los Angeles
 
 you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
-## portfolio
-
-you may access my portfolio [here][hunterjohnson.github.io/portfolio.md].
-
 ## research interests
 
 my research interests are primarily in theoretical syntax and fieldwork.
