@@ -21,7 +21,7 @@ you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## portforlio
 
-you may access my CV <a href="/portolio">here</a>.
+you may access my CV <a href="/assets/portolio">here</a>.
 
 ## research interests
 
