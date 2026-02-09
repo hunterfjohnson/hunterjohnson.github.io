@@ -21,7 +21,7 @@ you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## portfolio
 
-you may access my portfolio <a href="hunterfjohnson.github.io/portfolio.md" target="_blank">here</a>.
+you may access my portfolio <a href="hunterfjohnson.com/portfolio" target="_blank">here</a>.
 
 ## research interests
 
