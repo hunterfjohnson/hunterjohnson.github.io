@@ -19,6 +19,10 @@ University of California, Los Angeles
 
 you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
+## portforlio
+
+you may access my CV <a href="/portolio.md">here</a>.
+
 ## research interests
 
 my research interests are primarily in theoretical syntax and fieldwork.
