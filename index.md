@@ -17,11 +17,7 @@ University of California, Los Angeles
 
 ## cv
 
-you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
-
-## portforlio
-
-you may access my CV <a href="/assets/portolio.md">here</a>.
+you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a> and my industry resume <a href="/assets/resume.pdf" target="_blank">here</a>.
 
 ## research interests
 
