@@ -23,6 +23,7 @@ author: hunter johnson
 ###############################################
 
 navbar-links:
+  portfolio: "portfolio"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
