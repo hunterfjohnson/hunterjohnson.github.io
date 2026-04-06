@@ -22,6 +22,10 @@ author: hunter johnson
 # --- List of links in the navigation bar --- #
 ###############################################
 
+header_pages:
+  - index.md
+  - portfolio.md
+
 navbar-links:
   portfolio: "portfolio"
   About Me: "aboutme"
