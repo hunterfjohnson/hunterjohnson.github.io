@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "portfolio"
-permalink: https://hunterfjohnson.com/portfolio
+permalink: "https://hunterfjohnson.com/portfolio"
 ---
 
 # portfolio
