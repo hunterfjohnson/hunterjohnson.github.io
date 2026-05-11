@@ -19,6 +19,10 @@ University of California, Los Angeles
 
 you may access my CV <a href="/assets/cv.pdf" target="_blank">here</a> and my industry resume <a href="/assets/resume.pdf" target="_blank">here</a>.
 
+## research portfolio
+
+my research portfolio may be found <a href="https://hunterfjohnson.com/portfolio" target="_blank">here</a>. The purpose of the portfolio is to showcase my research to a non-linguist/non-expert audience in a digestable way.
+
 ## research interests
 
 my research interests are primarily in theoretical syntax and fieldwork.
