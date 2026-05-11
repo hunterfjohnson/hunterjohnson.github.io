@@ -25,6 +25,9 @@ author: hunter johnson
 # --- List of links in the navigation bar --- #
 ###############################################
 
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "research", file: "portfolio.md"}
+
 navbar-links:
   portfolio: "portfolio"
   About Me: "aboutme"
